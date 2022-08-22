@@ -36,6 +36,10 @@ switch.show()
 password = Object("RoomEscape/암호.png")
 password.locate(scene2, 400, 100)
 
+board = Object("RoomEscape/board.png")
+board.setText("한글 ABCD\n1234")
+board.locate(scene1, 900, 600)
+board.show()
 
 door1.closed = True
 def onMouseAction_door1(x, y, action):

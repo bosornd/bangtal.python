@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>a2e311bf-062a-40e4-9b08-533d3cd83d27</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>SpotDifference.py</StartupFile>
+    <StartupFile>RoomEscape.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
